@@ -31,7 +31,7 @@ owner:
   bio: "Describe your self."
   email:
   disqus-shortname:
-  twitter: ewan-keith
+  twitter: ewan_keith
   facebook: #username
   google:
     plus: #username
@@ -42,7 +42,7 @@ owner:
   bing-verify:
   github: ewan-keith
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: Ewan Keith
   xing: #username
   instagram: #username
   lastfm: #username

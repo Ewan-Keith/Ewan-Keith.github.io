@@ -35,7 +35,7 @@ owner:
   facebook: #username
   google:
     plus: #username
-    analytics:
+    analytics: <meta name="google-site-verification" content="9RJ4dYAqYZW_pW6upIykfXgF2LHvFiXDGVw7vCG9Z3I" />
     verify:
     ad-client:
     ad-slot:

@@ -1,10 +1,10 @@
 ---
-title: "2015-08-25-R-Markdown-Test"
-author: "Ewan Keith"
-date: "23 August 2015"
-output: html_document
-published: true
-status: publish
+layout: post
+title: Test R Markdown Post
+excerpt: "A test of uploading R Markdown docs to a Jekyll blog"
+tags: [sample post, R, Markdown]
+modified: 2015-08-23
+comments: true
 ---
  
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
